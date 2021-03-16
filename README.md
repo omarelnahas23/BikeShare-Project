@@ -48,3 +48,7 @@ total travel time average travel time
 counts of each user type<br>
 counts of each gender (only available for NYC and Chicago)<br>
 earliest, most recent, most common year of birth (only available for NYC and Chicago)<br>
+
+
+Note: You can find the csv files used in the .rar file
+-----------------------------------------------------------
